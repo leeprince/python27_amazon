@@ -1,2 +1,1 @@
-# Author:leeprince>>P
-The opportunity is reserved for those who are prepared.
+## 抓取亚马逊卖家信息
